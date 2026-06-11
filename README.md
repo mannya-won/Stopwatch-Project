@@ -27,6 +27,27 @@ Arduino IDE
 3. press the reset button to start again.
 4. Press the lap button to show the elapsed time.
 
+## Files:
+`stop_watch_withI2C.ino` - Main Arduino program
+
+`README.md` - Project documentation
+
 ## Circuit Diagram:
+![Circuit Diagram](stopwatch_with_I2C.png)
+
+## Learning Outcomes:
+1. Arduino programming
+2. Embedded systems development
+3. Timer implementation
+4. Hardware interfacing
+5. Project design and testing
+
+## Contributors:
+1. Mannya K
+2. Kavya Ravi T
 
 
+Developed collaboratively as a 2nd year micro-project
+
+## License:
+This project is shared for educational and learning purposes.
